@@ -1,0 +1,13 @@
+target/
+.git/
+.gitignore
+.mvn/
+.project
+.classpath
+.c9/
+*.log
+*.swp
+*.swo
+*~
+.DS_Store
+node_modules/
